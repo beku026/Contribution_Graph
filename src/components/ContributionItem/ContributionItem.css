@@ -1,0 +1,10 @@
+
+.contributionItem {
+  width: 15px;
+  height: 15px;
+  font-size: 10px;
+  position: relative;
+}
+.contributionItem:hover {
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}

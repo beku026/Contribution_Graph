@@ -1,0 +1,30 @@
+.tooltip {
+  position: absolute;
+  background: black;
+  z-index: 9999;
+  width: 145px;
+  left: 50%;
+  translate: -50% -115%;
+  border-radius: 3px;
+  color: white;
+  padding: 6px;
+  text-align: center;
+}
+
+.count {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+}
+.contrubutionDate {
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+  color: #7c7c7c;
+}
+
+.toolotip_svg {
+  translate: -50% 100%;
+  position: absolute;
+  left: 50%;
+}
